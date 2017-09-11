@@ -11,3 +11,5 @@ Press I to play in infinite mode.
 
 Technologies Used:- HTML5, JavaScript
 
+Play Online:-
+http://js13kgames.com/entries/the-lost-samurai
