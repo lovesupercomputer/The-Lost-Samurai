@@ -12,6 +12,7 @@ Press I to play in infinite mode.
 Technologies Used:- HTML5, JavaScript
 
 Here are few screenShots from the game: 
+![image](https://user-images.githubusercontent.com/14016521/31479959-83e81a94-af38-11e7-99de-8e8871a8e57e.png)
 
 
 Play Online:-
